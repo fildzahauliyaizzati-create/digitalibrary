@@ -14,6 +14,7 @@ Berikut ini adalah Koleksi yang dimiliki
 7. [Tentang Das Kapital Marx](ebook/DasKapital.pdf) - Frederick Enggels (2007)
 8. [Why Nations Fail](ebook/WhyNationsFail.pdf) - Daron Acemoglu, dkk (2012)
 9. [Mengembalikan Hak Umat](ebook/MengembalikanHakUmat.pdf) - Ahmad Sudarsono (2012)
+10. [Inteligensia Muslim dan Kuasa](ebook/InteligensiaMuslimdanKuasa.pdf) - Yudi Latif (2012)
 
 ---
 
