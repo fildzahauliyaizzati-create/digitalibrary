@@ -15,6 +15,7 @@ Berikut ini adalah Koleksi yang dimiliki
 8. [Why Nations Fail](ebook/WhyNationsFail.pdf) - Daron Acemoglu, dkk (2012)
 9. [Mengembalikan Hak Umat](ebook/MengembalikanHakUmat.pdf) - Ahmad Sudarsono (2012)
 10. [Inteligensia Muslim dan Kuasa](ebook/InteligensiaMuslimdanKuasa.pdf) - Yudi Latif (2012)
+11. [Resume Kuliah Umum](ebook/ResumeKuliahUmum.pdf) - FildzahAuliyaIzzati (2025)
 
 ---
 
