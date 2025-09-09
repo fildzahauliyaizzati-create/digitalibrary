@@ -11,6 +11,7 @@ Berikut ini adalah Koleksi yang dimiliki
 4. [Rumah Kaca](ebook/RumahKaca.pdf) - Pramoedya Ananta Toer (2006)
 5. [Genre Akademik dan Penulisan Artikel Jurnal: Kajian Retorika dalam Konteks Keberagaman Indonesia](ebook/GenreAkademikdanPenulisanArtikelJurnal.pdf) - Ani Rakhmawati (2025)
 6. [Di Bawah Lentera Merah](ebook/DiBawahLenteraMerah.pdf) - Soe Hok Gie (1999)
+7. [Tentang Das Kapital Marx](ebook/DasKapital.pdf) - Frederick Enggels (2007)
 
 ---
 
