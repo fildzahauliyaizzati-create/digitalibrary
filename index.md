@@ -18,7 +18,7 @@ Berikut ini adalah Koleksi yang dimiliki
 11. [Resume Kuliah Umum](ebook/ResumeKuliahUmum.pdf) - Fildzah Auliya Izzati (2025)
 
 ---
-<a href="webti/halaman1.html">Halaman 1</a>|
-<a href="webti/halaman2.html">Halaman 2</a>|
+<a href="webti/halaman1.html">Halaman 1</a>
+<a href="webti/halaman2.html">Halaman 2</a>
 
 Powered by Github Pages
