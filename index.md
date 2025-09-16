@@ -19,5 +19,6 @@ Berikut ini adalah Koleksi yang dimiliki
 
 ---
 <p><a href="halaman1.html">Halaman 1</a>|
+<a href="halaman2.html">Halaman 2</a>|
 
 Powered by Github Pages
