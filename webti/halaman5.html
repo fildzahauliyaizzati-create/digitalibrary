@@ -109,7 +109,7 @@
             const message = userInput.value.trim();
             if (message === "") return;
 
-            // Add user message
+            // Tambahkan pesan user ke chat
             const userMessage = document.createElement("div");
             userMessage.classList.add("message", "user-message");
             userMessage.textContent = message;
@@ -118,7 +118,7 @@
             userInput.value = "";
             chatBox.scrollTop = chatBox.scrollHeight;
 
-            // Simulate bot response
+            // Balasan bot dengan delay 1 detik
             setTimeout(() => {
                 const botMessage = document.createElement("div");
                 botMessage.classList.add("message", "bot-message");
@@ -133,12 +133,12 @@
                 "hai": "Hai juga!",
                 "bagaimana kabarmu?": "Aku baik-baik saja.",
                 "siapa namamu?": "Aku chat bot.",
-                "siapa itu alief randiansyah pradanaputra?" : "Mahasiswa ITS."
+                "siapa itu alief randiansyah pradanaputra?": "Mahasiswa ITS."
             };
             return responses[input.toLowerCase()] || "Maaf saya tidak tahu.";
         }
 
-        // Send message on Enter key press
+        // Kirim pesan saat tekan Enter
         userInput.addEventListener("keydown", function(event) {
             if (event.key === "Enter") {
                 sendMessage();
@@ -147,7 +147,3 @@
     </script>
 </body>
 </html>
-
-
-
-
