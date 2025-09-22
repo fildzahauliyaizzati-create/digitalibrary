@@ -2,8 +2,6 @@
 <html lang="id">
 <head>
     <meta charset="UTF-8">
-    <title>📚 Digital Library</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
     <h1>📚 Digital Library</h1>
