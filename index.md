@@ -25,7 +25,7 @@
 
     <hr>
     <p>
-        <a href="index.html">Index</a> |
+        <a href="index.md">Index</a> |
         <a href="halaman1.html">Halaman 1</a> |
         <a href="halaman2.html">Halaman 2</a> |
         <a href="halaman3.html">Halaman 3</a> |
